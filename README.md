@@ -28,6 +28,10 @@
 
 ## Installation
 
+```
+  Copy .env.dist to .env and update entries to match current environment
+```
+
 ```bash
 $ npm install
 ```
